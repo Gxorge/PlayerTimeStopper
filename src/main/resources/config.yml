@@ -1,0 +1,3 @@
+enabled: true # Set this to false to turn off the plugin
+worlds: # Add your worlds here
+  - world
