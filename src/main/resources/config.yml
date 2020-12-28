@@ -1,3 +1,4 @@
 enabled: true # Set this to false to turn off the plugin
+verbose: true # Sends logs to console about what the plugin is doing
 worlds: # Add your worlds here
   - world
